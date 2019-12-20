@@ -1,0 +1,444 @@
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       02:54:18
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       02:54:18
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/REPLOT,RESIZE  
+/SOLU   
+FINISH  
+/POST1  
+FINISH  
+/SOL
+/STATUS,SOLU
+/STATUS,SOLU
+/STATUS,SOLU
+SOLVE   
+FINISH  
+/POST1  
+!*  
+/EFACET,1   
+PLNSOL, S,INT, 0,1.0
+SAVE
+FINISH  
+! /EXIT,ALL 
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       09:06:41
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       09:06:42
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/POST1  
+!*  
+/EFACET,1   
+PLNSOL, S,INT, 0,1.0
+FINISH  
+! /EXIT,NOSAV   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       22:03:02
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       22:03:03
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/POST1  
+!*  
+/EFACET,1   
+PLNSOL, NL,HPRES, 0,1.0 
+!*  
+/EFACET,1   
+PLNSOL, S,INT, 0,1.0
+/DIST, 1 ,1.082226,1
+/REP,FAST   
+!*  
+/EFACET,1   
+PLNSOL, U,SUM, 0,1.0
+!*  
+/EFACET,1   
+PLNSOL, EPTO,INT, 0,1.0 
+/DIST, 1 ,1.082226,1
+/REP,FAST   
+/DIST, 1 ,0.924021,1
+/REP,FAST   
+!*  
+/EFACET,1   
+PLNSOL, S,INT, 0,1.0
+!*  
+/EFACET,1   
+PLNSOL, EPTT,INT, 0,1.0 
+FINISH  
+/SOL
+/REPLOT,RESIZE  
+FINISH  
+/PREP7  
+FINISH  
+/POST1  
+FINISH  
+/SOL
+/STATUS,SOLU
+FINISH  
+/PREP7  
+FINISH  
+! /EXIT,NOSAV   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       00:11:35
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       00:11:36
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/SOLU   
+FINISH  
+/PREP7  
+CM,_Y,AREA  
+ASEL, , , ,       2 
+CM,_Y1,AREA 
+CHKMSH,'AREA'   
+CMSEL,S,_Y  
+!*  
+!*  
+ACLEAR,_Y1  
+AMESH,_Y1   
+!*  
+CMDELE,_Y   
+CMDELE,_Y1  
+CMDELE,_Y2  
+!*  
+FINISH  
+! /EXIT,NOSAV   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       09:48:48
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       09:48:50
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/POST1  
+!*  
+/EFACET,1   
+PLNSOL, S,INT, 0,1.0
+/REPLOT,RESIZE  
+FINISH  
+/PREP7  
+/UI,MESH,OFF
+FINISH  
+/POST1  
+!*  
+/EFACET,1   
+PLNSOL, U,SUM, 0,1.0
+FINISH  
+! /EXIT,NOSAV   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       18:08:27
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       18:08:28
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/PREP7  
+/REPLOT,RESIZE  
+FINISH  
+/AUX12  
+FINISH  
+/POST26 
+FILE,'first_try','rst','.'  
+/UI,COLL,1  
+NUMVAR,200  
+SOLU,191,NCMIT  
+STORE,MERGE 
+FILLDATA,191,,,,1,1 
+REALVAR,191,191 
+FINISH  
+/POST1  
+FINISH  
+/SOL
+FINISH  
+/PREP7  
+FINISH  
+! /EXIT,NOSAV   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       18:10:12
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       18:10:12
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+FINISH  
+! /EXIT,MODEL   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:17:54
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:17:55
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/PREP7  
+!*  
+FINISH  
+/CLEAR,START
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:20:23
+/input,start,ans,'Z:\ANSYS Inc\v192\ANSYS\apdl\'
+!*  
+/CLEAR,START
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:20:36
+/input,start,ans,'Z:\ANSYS Inc\v192\ANSYS\apdl\'
+FINISH  
+! /EXIT,MODEL   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:21:19
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:21:19
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+!*  
+/NOPR   
+KEYW,PR_SET,1   
+KEYW,PR_STRUC,1 
+KEYW,PR_THERM,0 
+KEYW,PR_FLUID,0 
+KEYW,PR_ELMAG,0 
+KEYW,MAGNOD,0   
+KEYW,MAGEDG,0   
+KEYW,MAGHFE,0   
+KEYW,MAGELC,0   
+KEYW,PR_MULTI,0 
+/GO 
+!*  
+/COM,   
+/COM,Preferences for GUI filtering have been set to display:
+/COM,  Structural   
+!*  
+!*  
+/NOPR   
+KEYW,PR_SET,1   
+KEYW,PR_STRUC,1 
+KEYW,PR_THERM,0 
+KEYW,PR_FLUID,0 
+KEYW,PR_ELMAG,0 
+KEYW,MAGNOD,0   
+KEYW,MAGEDG,0   
+KEYW,MAGHFE,0   
+KEYW,MAGELC,0   
+KEYW,PR_MULTI,0 
+/GO 
+!*  
+/COM,   
+/COM,Preferences for GUI filtering have been set to display:
+/COM,  Structural   
+!*  
+/PREP7  
+!*  
+ET,1,PLANE183   
+!*  
+!*  
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       14:29:51
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       14:29:51
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/SOLU   
+FINISH  
+/PREP7  
+!*  
+!*  
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       14:32:24
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       14:32:24
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+FINISH  
+! /EXIT,MODEL   
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       19:58:02
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       19:58:03
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/PREP7  
+!*  
+FINISH  
+/CLEAR,NOSTART  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       20:05:49
+!*  
+/PREP7  
+!*  
+/NOPR   
+KEYW,PR_SET,1   
+KEYW,PR_STRUC,1 
+KEYW,PR_THERM,0 
+KEYW,PR_FLUID,0 
+KEYW,PR_ELMAG,0 
+KEYW,MAGNOD,0   
+KEYW,MAGEDG,0   
+KEYW,MAGHFE,0   
+KEYW,MAGELC,0   
+KEYW,PR_MULTI,0 
+/GO 
+!*  
+/COM,   
+/COM,Preferences for GUI filtering have been set to display:
+/COM,  Structural   
+!*  
+!*  
+ET,1,PLANE183   
+!*  
+!*  
+!*  
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,DENS,1,,7800 
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,EX,1,,2e6
+MPDATA,PRXY,1,,0.3  
+!*  
+/REPLOT,RESIZE  
+BLC4,0,0,100,100
+/BATCH  
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       20:24:15
+/input,menust,tmp,''
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       20:24:15
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+!*  
+/NOPR   
+KEYW,PR_SET,1   
+KEYW,PR_STRUC,1 
+KEYW,PR_THERM,0 
+KEYW,PR_FLUID,0 
+KEYW,PR_ELMAG,0 
+KEYW,MAGNOD,0   
+KEYW,MAGEDG,0   
+KEYW,MAGHFE,0   
+KEYW,MAGELC,0   
+KEYW,PR_MULTI,0 
+/GO 
+!*  
+/COM,   
+/COM,Preferences for GUI filtering have been set to display:
+/COM,  Structural   
+!*  
+/PREP7  
+FINISH  
+/CLEAR,START
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       20:24:38
+/input,start,ans,'Z:\ANSYS Inc\v192\ANSYS\apdl\'
+!*  
+!*  
+/NOPR   
+KEYW,PR_SET,1   
+KEYW,PR_STRUC,1 
+KEYW,PR_THERM,0 
+KEYW,PR_FLUID,0 
+KEYW,PR_ELMAG,0 
+KEYW,MAGNOD,0   
+KEYW,MAGEDG,0   
+KEYW,MAGHFE,0   
+KEYW,MAGELC,0   
+KEYW,PR_MULTI,0 
+/GO 
+!*  
+/COM,   
+/COM,Preferences for GUI filtering have been set to display:
+/COM,  Structural   
+!*  
+/PREP7  
+!*  
+SAVE,'Lab_3','db','D:\Learning\Computer systems of finite element calculations(KSKR)\Lab_3\'
+!*  
+ET,1,PLANE183   
+!*  
+!*  
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,DENS,1,,7800 
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,EX,1,,2e6
+MPDATA,PRXY,1,,0.3  
+!*  
+BLC4,0,0,100,100
+/REPLOT,RESIZE  
+BLC4,45,45,10,10
+FLST,2,2,5,ORDE,2   
+FITEM,2,1   
+FITEM,2,-2  
+FLST,3,2,5,ORDE,2   
+FITEM,3,1   
+FITEM,3,-2  
+ASBA,P51X,P51X  
+FLST,2,2,5,ORDE,2   
+FITEM,2,1   
+FITEM,2,-2  
+FLST,3,2,5,ORDE,2   
+FITEM,3,1   
+FITEM,3,-2  
+ASBA,P51X,P51X  
+FLST,2,2,5,ORDE,2   
+FITEM,2,1   
+FITEM,2,-2  
+FLST,3,2,5,ORDE,2   
+FITEM,3,1   
+FITEM,3,-2  
+ASBA,P51X,P51X  

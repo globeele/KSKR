@@ -1,0 +1,53 @@
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       02:54:13
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       09:06:11
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       22:02:29
+
+ *** WARNING ***                         CP =       5.875   TIME= 22:12:35
+ The requested NL data is not available.  The PLNSOL command is ignored. 
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       00:11:06
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       09:47:56
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       18:08:22
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       18:10:02
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:17:41
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:21:10
+
+ *** ERROR ***                           CP =       8.016   TIME= 14:28:45
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** ERROR ***                           CP =       8.047   TIME= 14:28:45
+ An unexpected error ( SIG$ABORT ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       14:29:42
+
+ *** ERROR ***                           CP =       2.656   TIME= 14:31:41
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** ERROR ***                           CP =       2.719   TIME= 14:31:42
+ An unexpected error ( SIG$SEGV ) has occurred...  ANSYS internal data   
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       14:32:12
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       19:57:51
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       20:24:06
+
+ *** ERROR ***                           CP =      25.531   TIME= 23:03:27
+ Area list to be subtracted is empty.                                    
+
+ *** ERROR ***                           CP =      25.734   TIME= 23:05:16
+ Area list to be subtracted is empty.                                    
+
+ *** ERROR ***                           CP =      25.875   TIME= 23:06:15
+ Area list to be subtracted is empty.                                    

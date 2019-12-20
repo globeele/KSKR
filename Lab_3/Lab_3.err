@@ -1,0 +1,57 @@
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       23:06:38
+
+ *** ERROR ***                           CP =       4.016   TIME= 23:11:47
+ Area list to be subtracted is empty.                                    
+
+ *** ERROR ***                           CP =       4.344   TIME= 23:12:00
+ Area list to be operated on is empty.                                   
+
+ *** ERROR ***                           CP =      23.109   TIME= 23:27:09
+ Area list to be subtracted is empty.                                    
+
+ *** WARNING ***                         CP =      28.406   TIME= 23:33:46
+ Some of the requested areas to be subtracted were also included in the  
+ selected set to be operated on.  These areas have been removed from     
+ the area to be operated on list.                                        
+
+ *** ERROR ***                           CP =      41.438   TIME= 23:41:13
+ Area list to be subtracted is empty.                                    
+
+ *** WARNING ***                         CP =      41.797   TIME= 23:41:35
+ Some of the requested areas to be operated on were also included in the 
+ selected set to be subtracted.  These areas have been removed from the  
+ area to be subtracted list.                                             
+
+ *** ERROR ***                           CP =      41.875   TIME= 23:41:35
+ Boolean operation failed.  Try adjusting the tolerance value on the     
+ BTOL command to some fraction of the minimum keypoint distance.Model    
+ Size (current problem) 1.414214e+02, current BTOL setting               
+ 1.000000e-05, minimum KPT distance 2.000000e+01.                        
+
+ *** ERROR ***                           CP =      42.359   TIME= 23:42:20
+ Area list to be subtracted is empty.                                    
+
+ *** WARNING ***                         CP =      42.812   TIME= 23:44:05
+ Some of the requested areas to be operated on were also included in the 
+ selected set to be subtracted.  These areas have been removed from the  
+ area to be subtracted list.                                             
+
+ *** ERROR ***                           CP =      42.859   TIME= 23:44:05
+ Boolean operation failed.  Try adjusting the tolerance value on the     
+ BTOL command to some fraction of the minimum keypoint distance.Model    
+ Size (current problem) 1.414214e+02, current BTOL setting               
+ 1.000000e-05, minimum KPT distance 2.000000e+01.                        
+
+ *** ERROR ***                           CP =      45.422   TIME= 23:45:43
+ Area list to be subtracted is empty.                                    
+
+ *** ERROR ***                           CP =      45.750   TIME= 23:46:07
+ Area list to be subtracted is empty.                                    
+/COM,ANSYS RELEASE Release 19.2      BUILD 19.2      UP20180808       11:52:56
+
+ *** ERROR ***                           CP =       2.719   TIME= 12:02:07
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
