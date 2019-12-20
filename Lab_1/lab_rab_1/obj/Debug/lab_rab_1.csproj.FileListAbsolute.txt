@@ -64,3 +64,12 @@ C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
 C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
 C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
 C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojAssemblyReference.cache
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\obj\Debug\lab_rab_1.FormResults.resources
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.cache
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+D:\kskr_labs\KSKR\Lab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
