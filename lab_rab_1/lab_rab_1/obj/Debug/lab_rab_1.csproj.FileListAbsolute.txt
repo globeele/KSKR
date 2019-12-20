@@ -1,0 +1,66 @@
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojResolveAssemblyReference.cache
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.Cache
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+E:\Учеба\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojAssemblyReference.cache
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.cache
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.CoreCompileInputs.cache
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+D:\универ\мусор\6 семестр\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojAssemblyReference.cache
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.cache
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.CoreCompileInputs.cache
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
+D:\Kskr\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.FormResults.resources
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojAssemblyReference.cache
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.FormResults.resources
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.cache
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+C:\Users\Vladislav Zayats\Desktop\КСКР 1 ЛАБА\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojAssemblyReference.cache
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.FormResults.resources
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.cache
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.CoreCompileInputs.cache
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+F:\Новая папка (2)\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojAssemblyReference.cache
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.FormResults.resources
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.cache
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.CoreCompileInputs.cache
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+C:\Users\karin\Desktop\КСКР\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.MainForm.resources
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.FormResults.resources
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.Properties.Resources.resources
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.exe
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\obj\Debug\lab_rab_1.pdb
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.exe
+C:\Users\asus\Desktop\lab_rab_1\lab_rab_1\lab_rab_1\bin\Debug\lab_rab_1.pdb
